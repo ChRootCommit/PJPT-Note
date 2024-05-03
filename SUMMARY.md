@@ -12,3 +12,4 @@
   * [GPO](ad-basis/gpo.md)
   * [Authentication methods](ad-basis/authentication-methods.md)
 * [Breaching AD (thm)](breaching-ad-thm.md)
+* [AD Enumeration](ad-enumeration.md)

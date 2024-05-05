@@ -9,6 +9,8 @@
 
 <figure><img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/6093e17fa004d20049b6933e/room-content/d2f78ae2b44ef76453a80144dac86b4e.png" alt=""><figcaption></figcaption></figure>
 
+
+
 * Authentication relay -> LLMNR Poisoning
 
 <figure><img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/6093e17fa004d20049b6933e/room-content/6baba3537d36d0fa78c6f61cf1386f6f.png" alt=""><figcaption></figcaption></figure>

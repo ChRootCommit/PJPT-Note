@@ -15,4 +15,5 @@
     * [Authentication methods](ad-basis/authentication-methods.md)
   * [Breaching AD (thm)](breaching-ad-thm.md)
   * [AD Enumeration](ad-enumeration.md)
-  * [Lateral mov \&Pivoting](thm-ad/lateral-mov-and-pivoting.md)
+  * [Lateral mov \&Pivoting](thm-ad/lateral-mov-and-pivoting/README.md)
+    * [Spawning access remotely](thm-ad/lateral-mov-and-pivoting/spawning-access-remotely.md)

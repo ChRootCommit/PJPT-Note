@@ -45,3 +45,9 @@ sudo ntlmrelayx.py -tf targets.txt -smb2support -i
 
 ```
 
+### Mitigation&#x20;
+
+* Enable smb signing on all devices
+* Disable ntlm auth on network
+* Account tiering
+* Local administration&#x20;

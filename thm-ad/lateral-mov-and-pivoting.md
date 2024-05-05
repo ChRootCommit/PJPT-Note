@@ -1,2 +1,0 @@
-# Lateral mov \&Pivoting
-

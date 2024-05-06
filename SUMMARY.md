@@ -18,3 +18,4 @@
   * [Lateral mov \&Pivoting](thm-ad/lateral-mov-and-pivoting/README.md)
     * [Spawning access remotely](thm-ad/lateral-mov-and-pivoting/spawning-access-remotely.md)
     * [Moving Laterally Using WMI](thm-ad/lateral-mov-and-pivoting/moving-laterally-using-wmi.md)
+    * [Use of Alternate Authentication Material](thm-ad/lateral-mov-and-pivoting/use-of-alternate-authentication-material.md)

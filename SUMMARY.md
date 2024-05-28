@@ -8,6 +8,7 @@
 * [AD Initial attack vector](llmnr-poisoning.md)
 * [THM AD](thm-ad/README.md)
   * [Exploiting AD](thm-ad/exploiting-ad/README.md)
+    * [Exploiting Certificates](thm-ad/exploiting-ad/exploiting-certificates.md)
     * [Exploiting GPOs](thm-ad/exploiting-ad/exploiting-gpos.md)
     * [Exploiting automated relay](thm-ad/exploiting-ad/exploiting-automated-relay.md)
     * [Permission delegation](thm-ad/exploiting-ad/permission-delegation.md)

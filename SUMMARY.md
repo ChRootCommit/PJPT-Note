@@ -11,6 +11,7 @@
     * [Exploiting automated relay](thm-ad/exploiting-ad/exploiting-automated-relay.md)
     * [Permission delegation](thm-ad/exploiting-ad/permission-delegation.md)
     * [Kerberos Delegation](thm-ad/exploiting-ad/kerberos-delegation.md)
+    * [Exploiting AD User](thm-ad/exploiting-ad/exploiting-ad-user.md)
   * [AD Basis](ad-basis/README.md)
     * [Security group vs group](ad-basis/security-group-vs-group.md)
     * [Delegation](ad-basis/delegation.md)

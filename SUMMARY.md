@@ -9,6 +9,7 @@
 * [THM AD](thm-ad/README.md)
   * [Exploiting AD](thm-ad/exploiting-ad/README.md)
     * [Permission delegation](thm-ad/exploiting-ad/permission-delegation.md)
+    * [Kerberos Delegation](thm-ad/exploiting-ad/kerberos-delegation.md)
   * [AD Basis](ad-basis/README.md)
     * [Security group vs group](ad-basis/security-group-vs-group.md)
     * [Delegation](ad-basis/delegation.md)

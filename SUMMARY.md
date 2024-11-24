@@ -7,6 +7,7 @@
 * [Exploitation basis](exploitation-basis.md)
 * [AD Initial attack vector](llmnr-poisoning.md)
 * [Post Compromise Enumeration for Active Directory](post-compromise-enumeration-for-active-directory.md)
+* [Attacking Active Directory: Post-Compromise Attacks](attacking-active-directory-post-compromise-attacks.md)
 * [THM AD](thm-ad/README.md)
   * [Exploiting AD](thm-ad/exploiting-ad/README.md)
     * [Exploiting Domain Trusts](thm-ad/exploiting-ad/exploiting-domain-trusts.md)

